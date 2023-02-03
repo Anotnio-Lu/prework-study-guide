@@ -6,7 +6,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - What was your motivation? To complete this project before class starts
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") To expand my knowledge and understanding HTML, CSS, Git, and Javascript.
-- What problem does it solve? The authors ignorance of HTML, CSS, Git and Javascript.
+- What problem does it solve? It demonsrates the authors skills in coding in HTML, CSS, Git and Javascript.
 - What did you learn? I learnt Debugging tools like Github code pilot are super useful.
 
 ## Installation
